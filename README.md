@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Auston Mtabane  
 
 🚀 **Aspiring Mobile Developer | Frontend Enthusiast | WeThinkCode_ Student**  
 
@@ -42,10 +42,9 @@ I’m passionate about **bridging the gap between tech and clients**, ensuring s
 
 ## 📣 Let's Connect!  
 
-- 🌐 **Portfolio**: [your-portfolio.com](#)  
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](#)  
-- 🐦 **Twitter/X**: [@yourhandle](#)  
-- 📩 **Email**: your.email@example.com  
+- 🌐 **Portfolio**: [https://www.linkedin.com/in/auston-mtabane/](#)  
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/auston-mtabane/](#)  
+- 📩 **Email**: mtabane.auston@gmail.com
 
 ---
 
