@@ -42,7 +42,7 @@ I’m passionate about **bridging the gap between tech and clients**, ensuring s
 
 ## 📣 Let's Connect!  
 
-- 🌐 **Portfolio**: [https://www.linkedin.com/in/auston-mtabane/](#)  
+- 🌐 **Portfolio**: [https://www.behance.net/auston-mtabane](#)  
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/auston-mtabane/](#)  
 - 📩 **Email**: mtabane.auston@gmail.com
 
