@@ -3,7 +3,7 @@
 🚀 **Aspiring Mobile Developer | Frontend Enthusiast | WeThinkCode_ Student**  
 
 I’m passionate about **bridging the gap between tech and clients**, ensuring seamless digital experiences. Currently sharpening my skills in **Python, JavaScript, and mobile development** while tackling real-world projects at **WeThinkCode_**.  
-
+ 
 ---
 
 ## 🔹 About Me  
