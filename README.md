@@ -12,7 +12,7 @@ I’m passionate about **bridging the gap between tech and clients**, ensuring s
 - 🎨 **Background**: Former **graphic designer** turned **developer**, blending creativity with code.  
 - 🧩 **Problem-Solver**: Built a **UNO game engine** and love tackling **complex challenges**.  
 - 🎓 **Mentor**: Previously a **student assistant/tutor** at **TUT** for **engineering software design**.  
-- 📸 **Photographer**: Helping small businesses with **food photography** on **Uber Eats & Mr D**.  
+- 📸 **Photographer**: Telling my own Story.
 
 ---
 
