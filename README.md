@@ -35,7 +35,7 @@ I’m passionate about **bridging the gap between tech and clients**, ensuring s
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Auston-Mtabane&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
