@@ -34,9 +34,7 @@ I’m passionate about **bridging the gap between tech and clients**, ensuring s
 
 ## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Auston-Mtabane&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+![Auston's Github Stats](https://github-readme-stats.vercel.app/api?username=Auston-Mtabane&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auston-Mtabane&layout=compact&theme=dark&hide_border=true)
 
