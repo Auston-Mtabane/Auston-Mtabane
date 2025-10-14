@@ -38,7 +38,7 @@ I’m passionate about **bridging the gap between tech and clients**, ensuring s
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auston-Mtabane&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Auston-Mtabane&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Auston-Mtabane&theme=dark&hide_border=true) 
 
 ---
 
